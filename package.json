@@ -1,6 +1,6 @@
 {
   "name": "@webship-js/taiga-steps",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Cucumber step definitions for Taiga, the open-source agile project management platform, a pack for webship-js (Playwright and Cucumber): signing in and out and its refusal, a project and who may open it, its backlog and its sprints, the taskboard of a sprint and the Kanban board, one user story (its status, comments, tags, assigned users, creator, tasks and sprint), a new user story, and what a reader of the project or someone it does not have may not do. Test content is made and removed through the site's own REST API, so a run leaves the site as it found it.",
   "main": "tests/step-definitions/taiga-helpers.js",
   "files": [
